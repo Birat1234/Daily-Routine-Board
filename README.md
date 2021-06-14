@@ -7,4 +7,4 @@ Our board has four stauses which are 'Backlog', 'Progress', 'Complete' and 'On H
 ### Screenshot
 <img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" >
 
-![Screenshot (108)](https://user-images.githubusercontent.com/26957756/121906642-ee0b7600-cd48-11eb-9889-a3c4aa065cc4.png height="48" width="48")
+![Screenshot (108)](https://user-images.githubusercontent.com/26957756/121906642-ee0b7600-cd48-11eb-9889-a3c4aa065cc4.png)
