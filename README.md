@@ -1,4 +1,4 @@
-# Daily-Routine-Board
+# Kanban Board
 Kanban-style boards in Backlog are a handy feature to visualize and organize our work.It provides a visual representation of tasks and their statuses. Generally, the statuses are ‘To Do,’ ‘In Progress,’ and ‘Done’ etc. This is useful for keeping everyone updated about pending tasks, work progress.
 
 ### How It Works
